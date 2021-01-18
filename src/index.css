@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.counter {
+  display: flex;
+  width: 100px;
+  justify-content: space-between;
+}
+
+button {
+  padding: 0 10px;
+}
