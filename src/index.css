@@ -12,12 +12,13 @@ code {
     monospace;
 }
 
-.counter {
-  display: flex;
-  width: 100px;
-  justify-content: space-between;
-}
-
 button {
   padding: 0 10px;
+  background-color: #F06169;
+  color: white;
+  padding: 6px;
+  margin-left: 5px;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 1rem;
 }
